@@ -1,5 +1,5 @@
 <h1 align="center">Miguel Rodríguez Marín</h1>
-<h3 align="center">Desarrollador Full Stack Junior | HTML · CSS · JS · PHP · Laravel · React</h3>
+<h3 align="center">Desarrollador Full Stack Junior | JAVA · HTML · CSS · JS · PHP · Laravel · React</h3>
 
 <p align="center">
   Aprendiendo, construyendo y mejorando un poco cada día.
